@@ -1,7 +1,7 @@
 {
-    "name": "deanbowles/sns_status",
+    "name": "drupal/d8_sns_status",
     "description": "Checks status of Neutrons SNS beamline",
-    "type": "drupal-module",
+    "type": "drupal-custom-module",
     "license": "GPL-2.0+",
     "authors": [
         {
@@ -9,6 +9,6 @@
             "email": "dean.bowles@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {}
 }
