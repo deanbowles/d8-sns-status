@@ -1,0 +1,4 @@
+name: "SNS Status"
+description: "Retrieve beamline status and display it in a block"
+type: module
+core: 8.x

@@ -1,0 +1,12 @@
+<?php
+
+/**
+* Implements hook_theme().
+*/
+function sns_status_theme($existing, $type, $theme, $path) {
+  return [
+    'status_block' => [
+    'variables' => ['status' => NULL, 'summary' => NULL, 'path' => NULL],
+    ],
+  ];
+}
